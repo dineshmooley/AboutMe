@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Dinesh Kumar!</string>
+    <string name="golden_star">Golden Star</string>
+    <string name="bio_text">
+        Dinesh Kumar is a dedicated software developer with a passion for problem-solving and innovation. Known for his expertise in Java and Kotlin, he excels at creating efficient and robust solutions to complex coding challenges. His journey in the tech world began during his university years, where he developed a strong foundation in computer science. Over time, Dinesh has honed his skills, working on various projects, from Android applications to intricate algorithms. He has a knack for quickly adapting to new technologies and enjoys pushing the boundaries of what is possible in software development. With a relentless drive for excellence, Dinesh is always eager to learn and grow, making him a valuable asset to any team. Outside of coding, he is keenly interested in exploring the latest industry trends and continuously expanding his knowledge.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
